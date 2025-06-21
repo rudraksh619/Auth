@@ -23,7 +23,7 @@ export default  function ShowProfile(){
     return (
 <div className="flex gap-4 flex-col justify-center h-screen items-center">
 <div>
-    Profile page
+    Profile 
 </div>
 <button 
 onClick={getlogout}
